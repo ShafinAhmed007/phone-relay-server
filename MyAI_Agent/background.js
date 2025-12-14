@@ -1,6 +1,5 @@
-// ⚠️ আপনার Replit এর আসল লিঙ্ক এখানে দিন (শেষে '/' দেবেন না)
-// উদাহরণ: https://my-repl-name.username.repl.co
-const SERVER_URL = "https://REPLACE_WITH_YOUR_REPLIT_URL";
+// Replit server URL (no trailing slash)
+const SERVER_URL = "https://3c2a5bb3-a060-4dd3-b0b3-0345f5b9f52c-00-10x6mkjzcvrwf.pike.replit.dev";
 
 console.log("Extension Started. Connecting to:", SERVER_URL);
 
